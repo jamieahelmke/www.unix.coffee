@@ -4,7 +4,8 @@
 }
 
 body {
-    background-image: url("city1.gif");
+    background-image: url("terminal.gif");
+    /* background-image: url("city1.gif"); */
     background-size: cover;
     background-color: #000000;
     text-align: center;
